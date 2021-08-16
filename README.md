@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ariensdev
+- 👀 I’m interested in crafting things, enjoying some music, running and helping businesses to move to Modern Workplace scenarios using Microsoft 365 and Azure.
+- 🌱 I’m currently learning for Microsoft Certifications AZ-104 and MS-600.
+- 💞️ I’m looking to collaborate on PowerShell scripts for making managing desktops with Microsoft Intune more fun, powerful and easier.
